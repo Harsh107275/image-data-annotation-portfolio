@@ -1,22 +1,34 @@
-# CVAT Traffic Image Annotation Project
+# Image Data Annotation Portfolio
 
-## Project Overview
-This project demonstrates image annotation using CVAT (Computer Vision Annotation Tool).
+**Computer Vision | Image Annotation | Document Annotation**
 
-## Annotation Labels
-- Person
-- Car
-- Mobile Phone
+Welcome to my data annotation portfolio. This repository showcases hands-on practice projects using CVAT and computer vision annotation workflows.
 
-## Annotation Method
-- Bounding-box annotation
-- Object labeling
-- COCO 1.0 dataset export
+## Projects
 
-## Purpose
-This is a practice project created to develop computer vision data annotation skills.
+### Project 1: Traffic Object Annotation
+- **Focus:** Object detection and bounding boxes
+- **Tool:** CVAT
+- **Evidence:** Annotated image and available annotation data
 
-## Tools
-- CVAT
-- COCO 1.0 format
-- GitHub
+### Project 2: Rural Roadside Object Annotation
+- **Focus:** Vehicles, people, animals, and roadside objects
+- **Tool:** CVAT
+- **Evidence:** Annotated image preview
+
+### Project 3: Invoice Document Annotation
+- **Focus:** Text regions and invoice field identification
+- **Tool:** CVAT
+- **Evidence:** Screenshot of the annotation interface
+
+## Skills
+- Image annotation and bounding boxes
+- Object identification and labeling
+- Document text-region annotation
+- Annotation quality checks
+- Attention to detail
+
+## About This Portfolio
+These projects demonstrate practical learning and annotation-tool experience. Project screenshots and exported annotation files are included only where available.
+
+**GitHub:** https://github.com/Harsh107275/image-data-annotation-portfolio
